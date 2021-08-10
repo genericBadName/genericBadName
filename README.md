@@ -1,5 +1,5 @@
 # Hello it's me genericBadName
-
+- I'm a hobbyist developer
 - I make minecraft plugins sometimes
 - I also make stuff with Unity
 
