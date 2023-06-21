@@ -26,5 +26,5 @@ Sorry to disappoint, nothing at the moment.
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000000?logo=adobephotoshop&logoColor=31A8FF&style=for-the-badge)
 
 ### 📞 Contact Information
-![Discord](https://img.shields.io/badge/-genericBadName%230001-000000?logo=discord&logoColor=5865F2&style=flat-square)
+![Discord](https://img.shields.io/badge/-genericbadname-000000?logo=discord&logoColor=5865F2&style=flat-square)
 [![Telegram](https://img.shields.io/badge/-genericBadName-000000?logo=telegram&logoColor=26A5E4&style=flat-square)](https://t.me/genericBadName)
