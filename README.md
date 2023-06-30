@@ -5,8 +5,7 @@ Hello there! :wave:
 I'm a hobbyist developer in high school with a long-standing passion for programming and game design. I work on projects because they're fun and a great way to learn new skills!
 
 ## 📌Active Projects
-
-Sorry to disappoint, nothing at the moment.
+[![genericBadName/CreateBigBrewery - GitHub](https://gh-card.dev/repos/genericBadName/CreateBigBrewery.svg)](https://github.com/genericBadName/CreateBigBrewery)
 
 ## 📈 Some Stats
 [![genericBadName's GitHub stats](https://github-readme-stats.vercel.app/api?username=genericBadName&show_icons=true&line_height=27&count_private=true&title_color=6358C5&text_color=c9cacc&icon_color=4AB097&bg_color=201C2B)](https://github.com/anuraghazra/github-readme-stats)
