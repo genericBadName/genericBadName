@@ -2,7 +2,7 @@
 
 Hello there! :wave:
 
-I'm a hobbyist developer in high school with a long-standing passion for programming and game design. I work on projects because they're fun and a great way to learn new skills!
+I'm a hobbyist developer in high school with a long-standing passion for programming and game design. I mod games because I think it's fun.
 
 ## 📌Active Projects
 [![genericBadName/CreateBigBrewery - GitHub](https://gh-card.dev/repos/genericBadName/CreateBigBrewery.svg)](https://github.com/genericBadName/CreateBigBrewery)
@@ -25,5 +25,5 @@ I'm a hobbyist developer in high school with a long-standing passion for program
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000000?logo=adobephotoshop&logoColor=31A8FF&style=for-the-badge)
 
 ### 📞 Contact Information
-![Discord](https://img.shields.io/badge/-genericbadname-000000?logo=discord&logoColor=5865F2&style=flat-square)
+![Discord](https://img.shields.io/badge/-genericbadname%20(most%20active)-000000?logo=discord&logoColor=5865F2&style=flat-square)
 [![Telegram](https://img.shields.io/badge/-genericBadName-000000?logo=telegram&logoColor=26A5E4&style=flat-square)](https://t.me/genericBadName)
