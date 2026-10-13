@@ -6,14 +6,13 @@ I'm a hobbyist developer and CS Undergraduate student at Portland State Universi
 Most of my work here is for my own personal enjoyment, which includes computer graphics, game-making, and algorithmic design.
 
 ## 📌 Active Projects
-[![genericBadName/s4rs - GitHub](https://gh-card.dev/repos/genericBadName/s4rs.svg)](https://github.com/genericBadName/s4rs)
-[![genericBadName/s4mc - GitHub](https://gh-card.dev/repos/genericBadName/s4mc.svg)](https://github.com/genericBadName/s4mc)
+I have moved over to GitLab for my personal projects.
 
 ## 💻 Languages / Frameworks
 ![Java](https://img.shields.io/badge/-Java-000000?logo=gradle&logoColor=F89820&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
-![.NET](https://img.shields.io/badge/-CSharp-000000?logo=dotnet&logoColor=239120&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-000000?logo=python&logoColor=3776AB&style=for-the-badge)
+![C](https://img.shields.io/badge/-C-000000?logo=c&logoColor=A8B9CC&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-000000?logo=cplusplus&logoColor=00599C&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?logo=typescript&logoColor=3178C6&style=for-the-badge)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000000?logo=node.js&logoColor=339933&style=for-the-badge)
 
